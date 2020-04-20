@@ -1,0 +1,25 @@
+{
+  "openrpc": "1.2.4",
+  "info": {
+    "title": "thingy52",
+    "version": "1.0.0",
+    "description": "openRPC middleware for thingy52",
+    "termsOfService": "https://github.com/bakon11/thingy52/",
+    "contact": {
+      "name": "bakon",
+      "email": "bakon@bakon.dev",
+      "url": "https://bakon.dev"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  },
+  "servers": [
+    {
+      "name": "thingy pi",
+      "url": "https://localhost:8085"
+    }
+  ],
+  "methods": []
+}
